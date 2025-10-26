@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Updated",
+      "price": 4500.0,
+      "category": "electronics"
+    },
+    {
+      "id": 2,
+      "name": "Konsola",
+      "price": 3000.0,
+      "category": "electronics"
+    }
+  ],
+  "next_id": 4
+}
